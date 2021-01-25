@@ -1,0 +1,40 @@
+
+img:hover{
+    transition:0.5s;
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+    }
+
+.portfolio-text_up { 
+    padding-top: 2%;
+    padding-left:5%;
+    padding-right: 5%;
+    font-size:30px;
+    text-align: center;
+}
+
+.portfolio-project_text { 
+    padding-top: 4%;
+    padding-left:5%;
+    padding-right: 5%;
+    font-size:30px;
+    text-align: center;
+}
+
+.portfolio-img { 
+    text-align: center;
+    position: relative;
+}
+
+.portfolio_product_name { 
+    text-align: center;
+    position: relative;
+    font-size: 25px;
+}
+
+.portfolio_product_description { 
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 15px;
+}
