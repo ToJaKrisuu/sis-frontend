@@ -10069,3 +10069,43 @@
    color: white;
    text-align: center;
  }
+
+ /*about page */ 
+ 
+ .sis_head { 
+   padding-top:2%;
+   font-size: 30px; 
+   position: relative; 
+   text-align: center;
+ }
+
+ .sis_post_head { 
+  padding-top:3%;
+  font-size: 25px; 
+  position: relative;
+  text-align: center;
+  padding-left:5%;
+  padding-right:5%;
+ }
+
+ .stats { 
+   font-size: 30px;
+   color: black; 
+   padding-top: 5%;
+   text-align: center;
+ }
+
+ .counter { 
+   font-size: 25px; 
+   color: black; 
+   text-align: center;
+ }
+
+ .portfolio-relect { 
+   padding-top: 6%;
+   font-size: 30px; 
+   padding-right: 5%;
+   padding-left: 5%;
+   text-align: center;
+ }
+
