@@ -10016,3 +10016,56 @@
    font-size: 8px;
    line-height: 8px;
  }
+
+ .ability { 
+   padding-top: 10%;
+ }
+ 
+ 
+ .post-cont { 
+   text-align: center;
+   position: relative;
+   padding-top: 11%;
+ }
+
+ .contact-head { 
+   position: relative;
+   font-size: 35px; 
+   text-align: center; 
+   padding-top: 12%;
+ }
+
+ .contact-form { 
+   position: relative;
+   font-size: 20px; 
+   text-align: center;
+   padding-top: 12%;
+   height: auto;
+  /* background-color: grey;
+   color: white; */
+ }
+
+ .fotter { 
+   color: white;
+   background-color: grey;
+   position: relative; 
+   width: 100%;
+   height: auto;
+ }
+
+ .fotter-studio  {
+   position: relative; 
+   font-size:15px;
+ }
+
+ .fotter-links { 
+   position: relative;
+   font-size: 20px;
+ }
+
+ .fotter-author { 
+   position: relative;
+   font-size:15px; 
+   color: white;
+   text-align: center;
+ }
