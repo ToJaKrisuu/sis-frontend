@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo&display=swap');
+
+body { 
+    margin-right: 5%;
+    margin-left: 5%;
+    position: relative;
+    font-size: 20px;
+    color: white; 
+    background-color: black; 
+}
+
+.menu { 
+    position: relative;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    text-decoration: honeydew;
+}
